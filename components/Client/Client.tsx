@@ -6,7 +6,7 @@ import Image from "next/image"
 import client from "@/public/client1.jpg"
 import serverclient from "@/public/serverclient.jpg"
 import serverclient2 from "@/public/serverclient2.jpg"
-import Back from "@/public/back.png"
+
 export default function Client(){
     return(
         <div>

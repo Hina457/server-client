@@ -4,7 +4,6 @@ import Image from "next/image";
 import server from "@/public/what is server.jpg"
 import typeserver from "@/public/typeserver.webp"
 import Daigram from "@/public/diagram.png"
-import Link from "next/link";
 
 export default function Server(){
     return(
